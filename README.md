@@ -370,6 +370,3 @@ Citation will be added after publication.
 
 License information will be added to this repository.
 
-## Contact
-
-For questions regarding the implementation or research framework, please open an issue in this repository or contact the corresponding author of the associated research work.
