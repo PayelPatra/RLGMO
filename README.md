@@ -368,5 +368,5 @@ Citation will be added after publication.
 
 ## License
 
-License information will be added to this repository.
+This project is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
